@@ -1,8 +1,10 @@
 Experimental chatApp regarding socket.io's functionalities.
 
+`
 cd client
 npm start
-
-cd ..
+`
+`
 cd server
 nodemon server.js
+`
